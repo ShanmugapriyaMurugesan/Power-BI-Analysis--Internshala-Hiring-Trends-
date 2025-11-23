@@ -1,0 +1,19 @@
+# Project Requirements
+
+## Tools
+- Power BI Desktop (latest version recommended)
+- GitHub account (to clone or download the repository)
+- Kaggle account (to access the dataset)
+
+## Dataset
+- Kaggle: Internshala Job Postings dataset (CSV/Excel format)
+- Place dataset files inside the `data/` folder
+
+## Optional (if preprocessing in Python)
+- Python 3.9+
+- Libraries:
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scikit-learn
